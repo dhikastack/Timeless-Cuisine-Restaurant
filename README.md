@@ -7,10 +7,10 @@ A system analysis and design project for **Timeless Cuisine Restaurant**, an Ind
 The project focuses on designing an integrated system to improve **ordering, payment, inventory, procurement, supplier management, and reporting** processes.
 
 **Tools:**
--
-Figma: https://www.figma.com/design/c8TA2axgRvmsxm5IS80CZC/ISAD-Timeless-Cuisine-Restaurant?node-id=0-1&t=zIKiafpTHCeUIe3Q-1
--
-Draw.io (UML)
+
+-[Figma](https://www.figma.com/design/c8TA2axgRvmsxm5IS80CZC/ISAD-Timeless-Cuisine-Restaurant)
+
+-Draw.io (UML)
 
 ---
 
@@ -104,3 +104,12 @@ Application Server
         ↓
 Database
 └── MySQL / PostgreSQL
+
+```
+## Contributors
+
+- Andhika Hafizh Albana
+- I Gusti Bagus Mahardika
+- Muhamad Amarr Hassemy Rafsanjani
+- Si Putu Bagus Asthaprawira
+- Frans Ananda
