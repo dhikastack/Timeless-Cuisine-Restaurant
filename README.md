@@ -112,4 +112,3 @@ Database
 - I Gusti Bagus Mahardika
 - Muhamad Amarr Hassemy Rafsanjani
 - Si Putu Bagus Asthaprawira
-- Frans Ananda
